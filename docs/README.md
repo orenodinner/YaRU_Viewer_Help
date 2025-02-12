@@ -135,3 +135,5 @@
 
 この流れで進めることで、複数のアスキーアートまとめサイトの大容量作品をオフラインで楽しめます。ぜひお試しください.
 
+[プライバシーポリシー](https://orenodinner.github.io/YaRU_Viewer_Help/PrivacyPolicy/Jpn).
+
