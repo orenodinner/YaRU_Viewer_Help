@@ -1,7 +1,7 @@
 # YaRUViewer_Help
 
 長編アスキーアート作品閲覧iOSアプリ「YaRU Viewer」のヘルプページです。  
-バグの報告や要望がありましたらIssuesへの入力をお願い致します。
+バグの報告や要望がありましたら[Issues](https://github.com/orenodinner/YaRU_Viewer_Help)への入力をお願い致します。
 　
 　  　
 ## 使用方法(クイックスタート)
