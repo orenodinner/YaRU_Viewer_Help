@@ -12,7 +12,7 @@
 
 ### おすすめダウンロードサイト
 [やる夫まとめ](https://yaruojson.github.io/yaruojson/yaruo.json) ：デフォルトサイト
-[歴史セレクション](https://yaruojson.github.io/yaruojson/yaruo.json)　：歴史系作品のおすすめ一覧　
+[歴史セレクション](https://yaruojson.github.io/osusume/osusume.json)　：歴史系作品のおすすめ一覧　
 
 
 # このアプリでできること
