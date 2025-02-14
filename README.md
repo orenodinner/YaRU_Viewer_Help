@@ -11,8 +11,8 @@
 6. 作品をクリックすると閲覧ができます。横画面での閲覧を推奨しますが、縦画面でも見やすいように改善中です。
 
 ### おすすめダウンロードサイト
-[やる夫まとめ](https://yaruojson.github.io/yaruojson/yaruo.json) ：デフォルトサイト
-[歴史セレクション](https://yaruojson.github.io/osusume/osusume.json)　：歴史系作品のおすすめ一覧　
+[やる夫まとめ](https://yaruojson.github.io/yaruojson/yaruo.json) ：デフォルトサイト  
+[歴史セレクション](https://yaruojson.github.io/osusume/osusume.json)　：歴史系作品のおすすめ一覧　 
 
 
 # このアプリでできること
