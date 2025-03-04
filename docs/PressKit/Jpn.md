@@ -1,5 +1,7 @@
 # YaRU Viewer プレスリリース
 ---
+**プレスキット素材**:[ダウンロード](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/Jpn)
+
 
 ## iPhoneで気軽にアスキーアート長編作品を堪能できるアプリ「YaRU Viewer」を配信  
 **過去の名作AA作品だけでなく、自由にDLサイトを追加可能**  
@@ -96,4 +98,3 @@ iPhoneの外観モードに連動するだけでなく、手動設定もOK。
 **oreno_dinner**  
 
 
-[プレスキット素材](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/Jpn)
