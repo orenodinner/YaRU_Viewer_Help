@@ -146,3 +146,4 @@
 
 [プライバシーポリシー](https://orenodinner.github.io/YaRU_Viewer_Help/PrivacyPolicy/Jpn).
 
+[プレスキット](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/PressKit.zip)

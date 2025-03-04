@@ -94,3 +94,6 @@ iPhoneの外観モードに連動するだけでなく、手動設定もOK。
 
 **今後ともご愛顧のほど、よろしくお願い申し上げます。**  
 **oreno_dinner**  
+
+
+[プレスキット素材](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/Jpn)
