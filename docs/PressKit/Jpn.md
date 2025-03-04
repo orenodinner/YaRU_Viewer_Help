@@ -4,8 +4,9 @@
 
 
 ## iPhoneで気軽にアスキーアート長編作品を堪能できるアプリ「YaRU Viewer」を配信  
-**過去の名作AA作品だけでなく、自由にDLサイトを追加可能**  
-![アイコン](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/YaRUViewer_icon.png "アイコン")
+**過去の名作AA作品だけでなく、自由にDLサイトを追加可能**
+<br>
+<img src="https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/YaRUViewer_icon.png" width="500">
 oreno_dinnerは2025年3月5日より、iPhone向けアプリ「YaRU Viewer」の配信を開始しました。  
 
 ---
@@ -17,7 +18,7 @@ oreno_dinnerは2025年3月5日より、iPhone向けアプリ「YaRU Viewer」の
 - **ジャンル**: アスキーアートビュアー  
 - **対応OS**: iOS  
 
-![デモ画面01](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/Press_1.png "デモ画面01")![デモ画面01](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/Press_2.png "デモ画面02")
+<img src="https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/Press_1.png" width="300"><img src="https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/Press_2.png" width="300">
 ---
 ## 特徴  
 
@@ -81,7 +82,7 @@ iPhoneの外観モードに連動するだけでなく、手動設定もOK。
 ## スマホでいつでもどこでも、AA長編作品を思う存分楽しみたい方に！  
 **「YaRU Viewer」 は、通勤・通学やリラックスタイムを豊かにしてくれる新感覚のアスキーアートビュアーです。**  
 長編AA作品の世界に思う存分浸りたい方は、ぜひこの機会にお試しください。  
-![画面01](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/store_1.png "画面01")![画面02](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/store_3.png "画面02")![画面03](https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/store_3.png "画面03")
+<img src="https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/store_1.png"width="200"> <img src="https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/store_2.png"width="200"> <img src="https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/store_3.png"width="200">
 ---
 
 ## 公式アカウント・お問い合わせ先  
