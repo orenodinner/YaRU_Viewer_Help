@@ -7,12 +7,12 @@
 **過去の名作AA作品だけでなく、自由にDLサイトを追加可能**
 <br>
 <img src="https://orenodinner.github.io/YaRU_Viewer_Help/PressKit/YaRUViewer_icon.png" width="500">
-oreno_dinnerは2025年3月5日より、iPhone向けアプリ「YaRU Viewer」の配信を開始しました。  
+oreno_dinnerは2025年3月5日より、iPhone向けアプリ[「YaRU Viewer」](https://apps.apple.com/jp/app/yaru-viewer/id6741810007)の配信を開始しました。  
 
 ---
 
 ## アプリ概要  
-- **アプリ名**: YaRU Viewer  
+- **アプリ名**: [YaRU Viewer] (https://apps.apple.com/jp/app/yaru-viewer/id6741810007)
 - **配信開始**: 2025年3月5日  
 - **価格**: 400円  
 - **ジャンル**: アスキーアートビュアー  
